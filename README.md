@@ -1,2 +1,2 @@
-# TidyverseWorkshop
-The Tidyverse Collection of R Packages
+# SPSS Archive
+Archive of teaching material for SPSS
